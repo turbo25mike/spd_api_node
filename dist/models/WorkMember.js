@@ -1,0 +1,2 @@
+class WorkMember extends Model {
+}

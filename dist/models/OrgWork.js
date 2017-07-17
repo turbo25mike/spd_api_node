@@ -1,0 +1,2 @@
+class OrgWork extends Model {
+}

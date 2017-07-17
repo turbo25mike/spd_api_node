@@ -1,0 +1,2 @@
+class TicketChat extends Model {
+}

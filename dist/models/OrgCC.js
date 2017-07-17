@@ -1,0 +1,2 @@
+class OrgCc extends Model {
+}

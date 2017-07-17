@@ -1,0 +1,2 @@
+class OrgMember extends Model {
+}

@@ -1,0 +1,2 @@
+class OrgGoal extends Model {
+}

@@ -1,0 +1,2 @@
+class OrgBilling extends Model {
+}

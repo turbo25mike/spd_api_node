@@ -1,0 +1,2 @@
+class WorkTag extends Model {
+}

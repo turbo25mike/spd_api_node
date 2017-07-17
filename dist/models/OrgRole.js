@@ -1,0 +1,2 @@
+class OrgRole extends Model {
+}

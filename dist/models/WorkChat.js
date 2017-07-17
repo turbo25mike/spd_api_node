@@ -1,0 +1,2 @@
+class WorkChat extends Model {
+}

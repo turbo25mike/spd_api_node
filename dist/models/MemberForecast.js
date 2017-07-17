@@ -1,0 +1,2 @@
+class MemberForecast extends Model {
+}
